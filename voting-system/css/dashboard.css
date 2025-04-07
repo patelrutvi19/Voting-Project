@@ -1,0 +1,64 @@
+body{
+    background: url('back.jpeg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+#backbtn{
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    float: left;
+    margin: 10px;
+
+}
+
+#logoutbtn{
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    float: right;
+    margin: 10px;
+}
+
+/* .btn{
+    display: flex;
+    justify-content: space-between;
+} */
+
+#profile{
+    background-color: white;
+    width: 30%;
+    padding: 20px;
+    float: left;
+}
+
+
+
+#Group{
+    background-color: white;
+    width: 60%;
+    padding: 20px;
+    float: right;
+}
+
+#votebtn{
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+}
+
+#mainpanel{
+    padding: 10px;
+}
